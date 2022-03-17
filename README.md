@@ -6,11 +6,21 @@ cd ~
 2.  Скачиваем архив 
 wget  https://github.com/Cyberzet/atomddos/archive/refs/heads/linux.zip
 3.   Распаковываем архив и переходим в паку с ПО
+```
 unzip linux.zip
-cd ~/atomddos-limux
+```
+```
+cd ~/atomddos-linux
+```
+
 4.  Устанавливаем права на запуск и запускаем установку необходимых программ
+```
 chmod 777 os*
+```
+```
 sudo ./osVoboditel-preapre.sh 
+```
+
 5.  В случае если система выдаст ошибку запуска сервиса docker перезапускаем компьютер
 reboot
 
