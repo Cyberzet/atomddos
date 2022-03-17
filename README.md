@@ -3,4 +3,4 @@
 https://github.com/Cyberzet/atomddos/archive/refs/heads/linux.zip
 
 Для пользователей Виндовс https://github.com/Cyberzet/atomddos/tree/windows
-https://github.com/Cyberzet/atomddos.git
+https://github.com/Cyberzet/atomddos/archive/refs/heads/windows.zip
