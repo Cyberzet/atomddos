@@ -33,6 +33,6 @@ reboot
 cd ~/atomddos-linux
 ```
 2.  Запускаем ПО
- ````
+```
 sudo ./osVoboditel.sh
 ```
