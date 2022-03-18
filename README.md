@@ -27,6 +27,10 @@ reboot
 
 Порядок  запуска для Linux(Ubuntu):
 1.  Запускаем Terminal и заходим в папку запуска ПО
-cd ~/atomddos-limux
+```
+cd ~/atomddos-linux
+```
 2.  Запускаем ПО
+ ````
 sudo ./osVoboditel.sh
+```
