@@ -18,7 +18,7 @@ cd ~/atomddos-linux
 chmod 777 os*
 ```
 ```
-sudo ./osVoboditel-preapre.sh 
+sudo ./osVoboditel-prepare.sh 
 ```
 
 5.  В случае если система выдаст ошибку запуска сервиса docker перезапускаем компьютер
