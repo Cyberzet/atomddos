@@ -5,7 +5,9 @@
 cd ~
 ```
 2.  Скачиваем архив 
+```
 wget  https://github.com/Cyberzet/atomddos/archive/refs/heads/linux.zip
+```
 3.   Распаковываем архив и переходим в паку с ПО
 ```
 unzip linux.zip
