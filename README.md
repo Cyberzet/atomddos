@@ -9,10 +9,11 @@ cd ~
 ```
 wget  https://github.com/Cyberzet/atomddos/archive/refs/heads/linux.zip
 ```
-3.   Распаковываем архив и переходим в паку с ПО
+3.   Распаковываем архив
 ```
 unzip linux.zip
 ```
+переходим в в папку с ПО
 ```
 cd ~/atomddos-linux
 ```
