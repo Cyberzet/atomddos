@@ -1,6 +1,18 @@
 # atomddos
-Для пользователей Линукс https://github.com/Cyberzet/atomddos/tree/linux
-https://github.com/Cyberzet/atomddos/archive/refs/heads/linux.zip
 
-Для пользователей Виндовс https://github.com/Cyberzet/atomddos/tree/windows
-https://github.com/Cyberzet/atomddos/archive/refs/heads/windows.zip
+## Порядок установки и запуска для пользователей Windows
+
+> 1. Скачать (https://github.com/Cyberzet/atomddos/archive/refs/heads/windows.zip)
+>
+> 2. Распаковать
+>
+> 3. Запустить
+
+
+
+## Для пользователей Linux 
+ > Инструкция https://github.com/Cyberzet/atomddos/tree/linux
+ > 
+ > Скачать (https://github.com/Cyberzet/atomddos/archive/refs/heads/linux.zip)
+
+
